@@ -1,0 +1,1 @@
+insert into auction (id, name, price) values (1, 'anu', 20);
