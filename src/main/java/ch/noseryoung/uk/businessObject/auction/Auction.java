@@ -10,7 +10,7 @@ import javax.persistence.*;
 // We can also not define it's name, but then it'd take the name of the class itself and that wouldn't be best practice
 @Table(name = "auction")
 public class Auction {
-
+//this is for a test
     // Regular attributes
     // The primary key, this annotation defines that this is a primary key:
     @Id
